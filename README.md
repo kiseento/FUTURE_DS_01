@@ -1,15 +1,39 @@
 # FUTURE_DS_01
-This repository contains my projects, assignments, and learning progress during my Data Science &amp; Analytics Internship at Future Interns.
- 
- About the Internship  
-- **Start Date:** March 2025  
-- **Focus Areas:** Data Analytics, SQL, Python, Power BI, Machine Learning Basics  
--  **Final Project Submission Deadline:** April 2025  
+# Social Media Sentiment Dashboard
 
-## Contents  
-- **Data Cleaning & Preprocessing**  
-- **Exploratory Data Analysis (EDA)**  
--  **Data Visualization**  
--  **Machine Learning Fundamentals**  
+This project is part of the **Future Interns Data Science & Analytics Internship**.  
+It explores trending topics and public sentiment from social media platforms using Python and Power BI.
 
-Stay tuned for updates as I work on exciting data projects! 🚀  
+## 📌 Task Overview
+
+**Goal:** Analyze trending topics on Twitter to understand user interests and market shifts.
+
+**Skills Used:**  
+- Web Scraping (Tweepy, BeautifulSoup)  
+- Natural Language Processing (TextBlob)  
+- Data Visualization  
+- Sentiment Analysis  
+- Power BI Dashboards
+
+## 🔧 Tools
+
+- **Python:** BeautifulSoup, Tweepy, Pandas, TextBlob, Matplotlib  
+- **Power BI:** For building interactive dashboards  
+- **Jupyter Notebook:** For data wrangling and visualization  
+- **GitHub:** For version control and sharing
+
+## 📊 Dashboard Highlights
+
+- **Sentiment Distribution:** Positive, Neutral, Negative trends  
+- **Platform Analysis:** Average polarity by platform  
+- **Time Patterns:** Weekly and hourly sentiment shifts  
+- **Hashtag Breakdown:** Top hashtags by sentiment  
+- **Engagement Comparison:** Likes and retweets vs. sentiment
+
+## 🔗 View the Dashboard
+
+You can download and explore the `.pbix` file using Power BI Desktop from the `dashboard/` folder.
+
+This project was created by Philip Leteipa Kiseento.  
+
+
