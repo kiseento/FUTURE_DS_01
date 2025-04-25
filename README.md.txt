@@ -5,7 +5,7 @@ It explores trending topics and public sentiment from social media platforms usi
 
 ---
 
-## 📌 Task Overview
+## Task Overview
 
 **Goal:** Analyze trending topics on Twitter to understand user interests and market shifts.
 
@@ -18,7 +18,7 @@ It explores trending topics and public sentiment from social media platforms usi
 
 ---
 
-## 🔧 Tools
+## Tools
 
 - **Python:** BeautifulSoup, Tweepy, Pandas, TextBlob, Matplotlib  
 - **Power BI:** For building interactive dashboards  
@@ -27,7 +27,7 @@ It explores trending topics and public sentiment from social media platforms usi
 
 ---
 
-## 📁 Files in This Repo
+## Files in This Repo
 
 | File / Folder | Description |
 |---------------|-------------|
@@ -38,7 +38,7 @@ It explores trending topics and public sentiment from social media platforms usi
 
 ---
 
-## 📊 Dashboard Highlights
+## Dashboard Highlights
 
 - **Sentiment Distribution:** Positive, Neutral, Negative trends  
 - **Platform Analysis:** Average polarity by platform  
@@ -48,11 +48,9 @@ It explores trending topics and public sentiment from social media platforms usi
 
 ---
 
-## 🔗 View the Dashboard
+## View the Dashboard
 
 You can download and explore the `.pbix` file using Power BI Desktop from the `dashboard/` folder.
-
----
 
 ## 💬 Let’s Connect
 
