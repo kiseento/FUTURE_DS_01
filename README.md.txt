@@ -3,8 +3,6 @@
 This project is part of the **Future Interns Data Science & Analytics Internship**.  
 It explores trending topics and public sentiment from social media platforms using Python and Power BI.
 
----
-
 ## Task Overview
 
 **Goal:** Analyze trending topics on Twitter to understand user interests and market shifts.
@@ -16,8 +14,6 @@ It explores trending topics and public sentiment from social media platforms usi
 - Sentiment Analysis  
 - Power BI Dashboards
 
----
-
 ## Tools
 
 - **Python:** BeautifulSoup, Tweepy, Pandas, TextBlob, Matplotlib  
@@ -25,18 +21,6 @@ It explores trending topics and public sentiment from social media platforms usi
 - **Jupyter Notebook:** For data wrangling and visualization  
 - **GitHub:** For version control and sharing
 
----
-
-## Files in This Repo
-
-| File / Folder | Description |
-|---------------|-------------|
-| `notebooks/` | Python scripts & Jupyter notebooks for data scraping, cleaning, analysis |
-| `data/` | Cleaned CSV file with social media data |
-| `outputs/` | PNG images of Python-generated visualizations |
-| `dashboard/` | Power BI `.pbix` file (interactive dashboard) |
-
----
 
 ## Dashboard Highlights
 
@@ -46,7 +30,6 @@ It explores trending topics and public sentiment from social media platforms usi
 - **Hashtag Breakdown:** Top hashtags by sentiment  
 - **Engagement Comparison:** Likes and retweets vs. sentiment
 
----
 
 ## View the Dashboard
 
